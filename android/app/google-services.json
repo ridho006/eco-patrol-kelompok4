@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017080480468",
+    "project_id": "eco-patrol-kelompok4",
+    "storage_bucket": "eco-patrol-kelompok4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017080480468:android:17d2ff7d8086a395217141",
+        "android_client_info": {
+          "package_name": "com.example.ecopatrolkel4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_vexsTWH8PPvHmp46km12ZwF7oMo3ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
